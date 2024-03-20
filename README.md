@@ -1,6 +1,7 @@
 # App1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+From Angular 17 onwards there is the Angular CLI command 'ng new projectName --no-standalone' this command creates the app.module.ts file.
 
 ## Development server
 
